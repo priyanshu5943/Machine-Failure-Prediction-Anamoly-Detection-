@@ -1,1 +1,1 @@
-# Machine-Failure-Prediction-Anamoly-Detection-
+# Machine-Failure-Prediction-Anomaly-Detection-
